@@ -1,4 +1,4 @@
-// Incognito v2
+// Telegram Dark v1.1
 // Theme style based on Incognito mode in Google Chrome
 
 windowBg: #3a3a3a;
@@ -73,7 +73,7 @@ placeholderFg: windowSubTextFg;
 placeholderFgActive: #aaaaaa;
 
 inputBorderFg: #ffffff;
-filterInputBorderFg: #ffffff;
+filterInputBorderFg: #007dd0;
 filterInputInactiveBg: #606060;
 checkboxFg: #ffffff;
 sliderBgInactive: #606060;
@@ -165,7 +165,7 @@ dialogsVerifiedIconBg: #40a7e3;
 dialogsVerifiedIconFg: #ffffff;
 dialogsSendingIconFg: #ffffff;
 dialogsSentIconFg: #ffffff;
-dialogsUnreadBg: #252525;
+dialogsUnreadBg: #4c9ed9;
 dialogsUnreadBgMuted: #737373;
 dialogsUnreadFg: windowFgActive;
 dialogsBgOver: #505050;
@@ -200,7 +200,7 @@ dialogsForwardBg: dialogsBgActive;
 dialogsForwardFg: dialogsNameFgActive;
 
 searchedBarBg: #3a3a3a;
-searchedBarBorder: shadowFg;
+searchedBarBorder: #00000018;
 searchedBarFg: windowSubTextFgOver;
 topBarBg: windowBg;
 
